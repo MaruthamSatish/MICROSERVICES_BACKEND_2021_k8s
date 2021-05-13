@@ -1,0 +1,7 @@
+server:
+  error:
+    include-stacktrace: on-trace-param
+  port: 9091
+spring:
+  application:
+    name: product-k8s

@@ -1,0 +1,7 @@
+server:
+  error:
+    include-stacktrace: on-trace-param
+  port: 9093
+spring:
+  application:
+    name: category-k8s
